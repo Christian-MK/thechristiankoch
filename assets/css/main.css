@@ -2927,7 +2927,7 @@ input[type="button"]:disabled,
 
 #header > nav ul li a.active {
   background: #fff;
-  color: #4acaa8 !important;
+  color: #777b7e !important; /* changed from #4acaa8 !important */
 }
 
 #header > nav ul li:first-child {
