@@ -1958,7 +1958,7 @@ select {
   background-size: 1.25em;
   background-repeat: no-repeat;
   background-position: calc(100% - 1em) center;
-  height: 3em; /* changed from 2.75em */
+  height: 2.75em;
   padding-right: 2.75em;
   text-overflow: ellipsis;
 }
@@ -2937,7 +2937,7 @@ input[type="button"]:disabled,
 /* Wrapper */
 
 #wrapper {
-  background: #fff;
+  background: #000000; /* changed from #fff */
   padding-right: 23em;
 }
 
@@ -3087,7 +3087,7 @@ input[type="button"]:disabled,
   }
 
   .image.main {
-    height: 20em;
+    height: 21em; /* changed from 20em */
   }
 
   /* Header */
