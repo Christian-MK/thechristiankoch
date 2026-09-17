@@ -220,7 +220,7 @@ a {
 
 a:hover {
   border-bottom-color: transparent;
-  color: #4acaa8 !important;
+  color: #ff6600 !important;
 }
 
 strong,
@@ -2502,7 +2502,7 @@ ul.feature-icons li:before {
 }
 
 ul.feature-icons li:before {
-  background: #777b7e; /* changed from 4acaa8 */
+  background: #ff6600; /* changed from 4acaa8 */
   border-radius: 100%;
   color: #ffffff;
   display: block;
@@ -2734,7 +2734,7 @@ input[type="submit"].primary:hover,
 input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 .button.primary:hover {
-  background-color: #5ed0b1;
+  background-color: #ff6600; /*changed from 5ed0b1 */
 }
 
 input[type="submit"].primary:active,
