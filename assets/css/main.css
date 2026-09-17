@@ -2741,7 +2741,7 @@ input[type="submit"].primary:active,
 input[type="reset"].primary:active,
 input[type="button"].primary:active,
 .button.primary:active {
-  background-color: #39c29d;
+  background-color: #ff6600; /*changed from 39c29d */
 }
 
 input[type="submit"].disabled,
@@ -2839,7 +2839,7 @@ input[type="button"]:disabled,
 }
 
 #header header p {
-  color: #b7eadc;
+  color: #ff6600; /*changed from b7eadc */
 }
 
 #header a {
@@ -2891,7 +2891,7 @@ input[type="button"]:disabled,
 }
 
 #header > footer .icons li a {
-  color: #b7eadc;
+  color: #ff6600; /*changed from b7eadc */
 }
 
 #header > nav {
