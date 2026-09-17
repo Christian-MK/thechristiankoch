@@ -2944,7 +2944,7 @@ input[type="button"]:disabled,
 /* Main */
 
 #main > section {
-  border-top: solid 6px #f4f4f4;
+  border-top: solid 2px #f4f4f4; /* changed from 6px */
 }
 
 #main > section > .container {
