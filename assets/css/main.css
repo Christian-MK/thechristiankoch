@@ -2522,6 +2522,23 @@ ul.feature-icons li:before {
   width: 2.5em;
 }
 
+#skills .container > h3 {
+  color: #ff6600;
+}
+
+#research .container > h3 {
+  color: #ff6600;
+}
+
+#skills .feature-icons li h4 {
+  color: #ff6600;
+  display: block;
+  font-size: 1.25em;
+  font-weight: 700;
+  line-height: 1.5em;
+  margin: 0 0 0.5em 0;
+}
+
 /* Icons */
 
 ul.icons {
